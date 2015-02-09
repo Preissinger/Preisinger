@@ -19,7 +19,6 @@ To run server:
 
 team
 ====
-Preissinger Anton - tohas@mail.ua
 Derkachenko Yura - funnyboy201212@gmail.com  
 Chernyshenko Sergey (VintorezVS) - vintorezvs@gmail.com  
 Zinkevych Alex - alexzinkevych@yandex.ua  
@@ -30,5 +29,6 @@ Martyuk Alexander - ma14051985@gmail.com
 
 subteam
 ====  
+Preissinger Anton - tohas@mail.ua
 Khvalinskiy Igor - 1379@i.ua
 
